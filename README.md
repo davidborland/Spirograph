@@ -1,2 +1,2 @@
 # Spirograph
-Interactive webpage for demonstrating linear algebra concepts
+Interactive web page demonstrating 2D rotation matrices.
